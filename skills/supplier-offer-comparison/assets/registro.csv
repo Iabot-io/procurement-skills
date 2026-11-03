@@ -1,1 +1,1 @@
-proveedor,criterio,evidencia,cumplimiento,coste,peso,puntuacion,exclusion,pendiente
+proveedor,cantidad_requerida,cantidad_minima,cantidad_comparable,precio_unitario,base_fiscal,moneda,recargos,coste_total,criterio,evidencia,cumplimiento,peso,puntuacion,exclusion,pendiente

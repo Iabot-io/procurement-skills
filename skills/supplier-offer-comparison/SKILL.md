@@ -28,8 +28,8 @@ Trabaja con ofertas completas, requisitos, criterios y pesos aprobados. Usa docu
 
 1. Normaliza alcance, cantidades, moneda, impuestos y horizonte de coste de cada oferta.
 2. Relaciona requisitos con evidencias y separa incumplimiento de falta de información.
-3. Calcula coste total comparable incluyendo conceptos documentados de entrega, mantenimiento o uso.
-4. Aplica puntuaciones solo con criterios y pesos visibles; muestra las compensaciones relevantes.
+3. Calcula coste total comparable incluyendo conceptos documentados de entrega, mantenimiento o uso. Respeta mínimos y múltiplos de compra: un coste proporcional de diez unidades no representa una oferta que exige comprar veinte.
+4. Aplica puntuaciones solo con criterios y pesos visibles; muestra las compensaciones relevantes. Si faltan pesos, conserva una comparativa factual y no inventes una puntuación para elegir ganador.
 5. Entrega opciones y aclaraciones pendientes sin adjudicar ni emitir pedidos.
 
 ## Comprobación del resultado
